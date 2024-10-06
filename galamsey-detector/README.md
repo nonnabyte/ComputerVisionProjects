@@ -29,8 +29,7 @@ Welcome to the **Mine Detection using Sentinel-2 Satellite Imagery and U-Net** p
 - **Grid Tiling:** Splits the AOI into manageable grid tiles for efficient processing.
 - **Data Preprocessing:** Normalizes images and prepares them for model training by creating overlapping patches.
 - **Deep Learning Model:** Implements and trains a U-Net model for multi-class segmentation to detect mines.
-- **Visualization:** Provides tools to visualize training metrics and model predictions with app![demo_prediction](https://github.com/user-attachments/assets/475fdbce-a678-4324-87b3-858e7ce26f0e)
-ropriate color mappings.
+- **Visualization:** Provides tools to visualize training metrics and model predictions with appropriate color mappings.
 
 ## Demo
 
