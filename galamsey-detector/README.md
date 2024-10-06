@@ -34,7 +34,6 @@ Welcome to the **Mine Detection using Sentinel-2 Satellite Imagery and U-Net** p
 ## Demo
 
 ![Sample Prediction](![demo_prediction](https://github.com/user-attachments/assets/67ad5916-d236-4404-a4af-8fcca0b98ebb)
-) 
 
 *Figure: Sample prediction of mine locations using the trained U-Net model.*
 
