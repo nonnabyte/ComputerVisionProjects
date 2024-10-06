@@ -33,7 +33,7 @@ Welcome to the **Mine Detection using Sentinel-2 Satellite Imagery and U-Net** p
 
 ## Demo
 
-![Sample Prediction](https://nonnabyte/ComputerVisionProjects/galamsey-detector/images/demo_prediction.png) 
+![Sample Prediction](galamsey-detector/images/demo_prediction.png) 
 
 *Figure: Sample prediction of mine locations using the trained U-Net model.*
 
