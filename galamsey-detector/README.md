@@ -47,7 +47,7 @@ Welcome to the **Mine Detection using Sentinel-2 Satellite Imagery and U-Net** p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mine-detection.git
+git clone https://nonnabyte/ComputerVisionProjects/galamsey-detector.git
 cd mine-detection
 ```
 
@@ -121,11 +121,8 @@ mine-detection/
 │       └── ...
 ├── scripts/
 │   ├── galamsey.ipynb
-├── models/
-│   └── unet_model.keras
 ├── images/
 │   └── demo_prediction.png
-├── requirements.txt
 └── README.md
 ```
 
